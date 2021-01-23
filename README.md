@@ -47,7 +47,10 @@ e.g. Amazon GARCH
 * In addition, a detailed version of the report can be found in **FAANG_Report__Detail_and_Code_Included_Version_.pdf**<br>
   The difference is that the detailed version dives into the math and code of the project.
 
-
+## References
+Li Duan, C. (2018). *Jin Rong Ke Ji Shi Zhan: Python Yu Liang Hua Tou Zi*. Taiwan: Bo Shuo Chu Ban She.<br>
+Chauhan, N. (2020, January). Stock Market Forecasting Using Time Series Analysis. https://www.kdnuggets.com/2020/01/stock-market-forecasting-time-series-analysis.html <br>
+Thakar, P. (2020, July 23). Forecasting Time Series Data - Stock Price Analysis. https://towardsdatascience.com/forecasting-time-series-data-stock-price-analysis-324bcc520af5
 
 
 
